@@ -1,7 +1,7 @@
 body {
-  /* background-image: url("../img/papel-pintado-pared.jpg"); */
+  background-image: url("../img/papel-pintado-pared.jpg");
   /* using root */
-  background-image: url("/assets/img/papel-pintado-pared.jpg");
+  /* background-image: url("/assets/img/papel-pintado-pared.jpg"); */
   font-family: sans-serif;
 }
 h1{
