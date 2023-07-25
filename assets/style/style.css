@@ -1,0 +1,11 @@
+body {
+  /* background-image: url("../img/papel-pintado-pared.jpg"); */
+  /* using root */
+  background-image: url("/assets/img/papel-pintado-pared.jpg");
+  font-family: sans-serif;
+}
+h1{
+    /* color: beige; */
+    color: rgb(78, 187, 123);
+    text-align: center;
+}
